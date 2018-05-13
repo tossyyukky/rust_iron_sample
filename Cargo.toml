@@ -1,0 +1,6 @@
+[package]
+name = "rust_iron_sample"
+version = "0.1.0"
+authors = ["Toshiyuki Ihara <snowsphere.burned@gmail.com>"]
+
+[dependencies]
